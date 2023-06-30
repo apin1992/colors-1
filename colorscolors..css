@@ -1,0 +1,142 @@
+header {  
+  
+  font-family: "Princess Sofia", sans-serif;
+  font-size: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 33%);
+  text-align: center;
+  line-height: 1;
+  border: solid 1px black;
+  padding: 10px;
+  grid-template-rows:  repeat(3, 33%);
+  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+.colors-article {
+  padding-right: 200px;
+  margin: 10px;
+  grid-row: span 1;
+  font-size: 50px;
+  padding-top: 30px;
+  color: white;
+}
+.color-div-1 {
+  color: green;
+  background-color: yellow;
+  margin: 4px;
+  visibility: hidde;
+  line-height: 1.5;
+}
+.color-div-2 {
+  color: white;
+  background-color: #7D3C98;
+  margin: 4px;
+  line-height: ;
+
+}
+.color-div-3 {
+  color: white;
+  background-color: #AA4A44;
+  margin: 4px;
+}
+.color-div-4 {
+  color: black;
+  background-color: #FFFC33;
+  margin: 4px;
+}
+.color-div-5 {
+  color: white;
+  background-color: #E65DE6;
+  margin: 4px;
+}
+.color-div-6 {
+  color: white;
+  background-color: #6D2631;
+  margin: 4px;
+}
+.color-div-7 {
+  color: white;
+  background-color: #2ECC71;
+  margin: 4px;
+}
+section {
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  padding: 5px;
+  background-image: url("https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2019/12/09065143/resume-fonts-1024x512.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  
+} 
+.creep-div {
+  display: inline;
+}
+#roboto-div {
+  font-family: Roboto, sans-serif;
+  
+}
+.roboto-title {
+  text-decoration: underline;
+  font-size: 20px;
+}
+.roboto-nomal {
+font-style: normal;
+}
+.roboto-bold {
+  font-weight: bold;
+}
+.roboto-italic {
+  font-style: italic;
+}
+#space-div {
+  font-family: "Space Mono", sans-serif;
+}
+.space-title {
+  text-decoration: underline;
+  font-size: 20px;
+}
+.space-nomal {
+font-style: normal;
+}
+.space-bold {
+  font-weight: bold;
+}
+.space-italic {
+  font-style: italic;
+}
+#poppins-div {
+  font-family: "Poppins", sans-serif;
+}
+.poppins-title {
+  text-decoration: underline;
+  font-size: 20px;
+}
+.poppins-nomal {
+font-style: normal;
+}
+.poppins-bold {
+  font-weight: bold;
+}
+.poppins-italic {
+  font-style: italic;
+}
+#merry-div {
+  font-family: "Merriweather", sans-serif;
+}
+.merry-title {
+  text-decoration: underline;
+  font-size: 20px;
+}
+.merry-nomal {
+font-style: normal;
+}
+.merry-bold {
+  font-weight: bold;
+}
+.merry-italic {
+  font-style: italic;
+}
+footer {
+  background-image: url("https://png.pngtree.com/background/20210714/original/pngtree-white-polygonal-mosaic-triangular-background-abstract-light-gray-background-low-poly-picture-image_1235028.jpg");
+}
+
